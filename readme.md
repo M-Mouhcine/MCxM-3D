@@ -38,7 +38,20 @@ The dataset used in this work is publicly available on Zenodo: [**High-Resolutio
 
 ## 📢 Citation
 
-If you find this work useful, please cite both the **dataset** and the **paper** once published.
+If you find this work useful, please cite both the **papers** and the **dataset**.
+
+### Paper Citation
+
+```bibtex
+@article{mendil20253d,
+  title={A 3D discrepancy modeling framework for urban pollution prediction in accelerated time},
+  author={Mendil, Mouhcine and Leirens, Sylvain and Novello, Paul and Duchenne, Christophe and Armand, Patrick},
+  journal={Environmental Modelling \& Software},
+  pages={106662},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 ### Dataset Citation
 ```bibtex
